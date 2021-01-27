@@ -6,3 +6,5 @@
 3.Double click on Triangle to delete Triangle. 
 
 4.Click on Clear Canvas option to clear all Triangle inside Drawing Box.
+
+Try it:- https://alankritsrivastava.github.io/Triangle-Paint-App/
